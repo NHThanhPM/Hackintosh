@@ -950,7 +950,7 @@
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/itlwm</string>
                     <key>MaxKernel</key>
-                    <string>25.99.99</string>
+                    <string></string>
                     <key>MinKernel</key>
                     <string>25.0.0</string>
                     <key>PlistPath</key>
@@ -968,9 +968,9 @@
                     <key>ExecutablePath</key>
                     <string>Contents/MacOS/AirportItlwm</string>
                     <key>MaxKernel</key>
-                    <string>20.99.99</string>
+                    <string></string>
                     <key>MinKernel</key>
-                    <string>20.0..0</string>
+                    <string>20.0.0</string>
                     <key>PlistPath</key>
                     <string>Contents/Info.plist</string>
                 </dict>
